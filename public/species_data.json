@@ -1,0 +1,338 @@
+{
+  "version": "1.0",
+  "total_species": 54,
+  "huntable_count": 30,
+  "non_huntable_count": 24,
+  "species": [
+    {
+      "filename": "PXL_20260623_064129807.MP.jpg",
+      "species_name": "ニュウナイスズメ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064131900.MP.jpg",
+      "species_name": "キジバト",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064135386.MP.jpg",
+      "species_name": "アライグマ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064137604.jpg",
+      "species_name": "キツネ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064141405.jpg",
+      "species_name": "イタチ（オス）",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064144651.jpg",
+      "species_name": "ニホンジカ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064147472.jpg",
+      "species_name": "ハクビシン",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064150225.jpg",
+      "species_name": "テン",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064153766.jpg",
+      "species_name": "アナグマ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064156836.jpg",
+      "species_name": "ミンク",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064159396.MP.jpg",
+      "species_name": "タヌキ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064202171.MP.jpg",
+      "species_name": "シマリス",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064204747.MP.jpg",
+      "species_name": "タシギ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064209582.MP.jpg",
+      "species_name": "ムクドリ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064212324.MP.jpg",
+      "species_name": "ヤマシギ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064214861.jpg",
+      "species_name": "コジュケイ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064222531.MP.jpg",
+      "species_name": "キジ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064225518.MP.jpg",
+      "species_name": "ヒヨドリ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064228369.jpg",
+      "species_name": "ヨシガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064232145.MP.jpg",
+      "species_name": "スズガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064234318.MP.jpg",
+      "species_name": "マガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064236664.MP.jpg",
+      "species_name": "カルガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064239149.MP.jpg",
+      "species_name": "クロガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064242385.MP.jpg",
+      "species_name": "キンクロハジロ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064245489.MP.jpg",
+      "species_name": "オナガガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064248435.MP.jpg",
+      "species_name": "ハシビロガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064251459.MP.jpg",
+      "species_name": "ホシハジロ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064254246.MP.jpg",
+      "species_name": "ヒドリガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064256923.jpg",
+      "species_name": "コガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064259394.MP.jpg",
+      "species_name": "コガモ",
+      "category": null,
+      "characteristics": null,
+      "is_huntable": true
+    },
+    {
+      "filename": "PXL_20260623_064356161.MP.jpg",
+      "species_name": "イタチ（メス）",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064357853.jpg",
+      "species_name": "オコジョ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064400993.MP.jpg",
+      "species_name": "ニホンリス",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064402926.MP.jpg",
+      "species_name": "ムササビ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064404832.MP.jpg",
+      "species_name": "モモンガ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064408691.MP.jpg",
+      "species_name": "カワラヒワ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064410711.MP.jpg",
+      "species_name": "ツグミ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064412828.jpg",
+      "species_name": "モズ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064415391.MP.jpg",
+      "species_name": "ホオジロ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064418574.MP.jpg",
+      "species_name": "カケス",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064423928.MP.jpg",
+      "species_name": "アオバト",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064425890.jpg",
+      "species_name": "オナガ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064428130.jpg",
+      "species_name": "カシラダカ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064432677.jpg",
+      "species_name": "ヨシゴイ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064434862.jpg",
+      "species_name": "ササゴイ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064437061.MP.jpg",
+      "species_name": "オシドリ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064438791.MP.jpg",
+      "species_name": "トモエナガ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064440868.MP.jpg",
+      "species_name": "ホオジロガモ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064442629.jpg",
+      "species_name": "ゴイサギ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064444867.jpg",
+      "species_name": "ヒクイナ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064448975.jpg",
+      "species_name": "バン",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064451887.MP.jpg",
+      "species_name": "マガシ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064453853.MP.jpg",
+      "species_name": "ウミアイサ",
+      "is_huntable": false
+    },
+    {
+      "filename": "PXL_20260623_064456216.jpg",
+      "species_name": "オオバン",
+      "is_huntable": false
+    }
+  ]
+}
