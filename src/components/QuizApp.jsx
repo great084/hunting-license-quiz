@@ -80,12 +80,13 @@ export default function QuizApp() {
         {/* クイズカード */}
         <div className="bg-white rounded-lg shadow-lg p-6">
           {/* 画像 */}
-          <div className="relative w-full aspect-square mb-6 bg-gray-200 rounded-lg overflow-hidden">
+          <div className="relative w-full mb-6 bg-gray-200 rounded-lg overflow-hidden flex items-center justify-center" style={{ minHeight: '300px' }}>
             <Image
               src={`/images/${currentQuestion.is_huntable ? 'huntable' : 'non-huntable'}/${currentQuestion.filename}`}
               alt="狩猟鳥獣クイズ"
-              fill
-              className="object-cover"
+              width={400}
+              height={400}
+              className="object-contain"
               priority
             />
           </div>
@@ -149,9 +150,7 @@ export default function QuizApp() {
               </p>
               <div className="mt-2 text-sm text-gray-700">
                 <p><strong>狩猟対象：</strong> {currentQuestion.is_huntable ? 'はい' : 'いいえ'}</p>
-                {currentQuestion.is_huntable && (
-                  <p><strong>種別名：</strong> {currentQuestion.species_name}</p>
-                )}
+                <p><strong>種別名：</strong> {currentQuestion.species_name}</p>
               </div>
             </div>
           )}
