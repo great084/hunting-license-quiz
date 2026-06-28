@@ -64,23 +64,22 @@ export default function QuizApp() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 py-8 px-4">
+    <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 py-4 px-4">
       <div className="max-w-md mx-auto">
         {/* ヘッダー */}
-        <div className="text-center mb-6">
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">狩猟鳥獣クイズ</h1>
-          <p className="text-gray-600">正しく判定できますか？</p>
+        <div className="text-center mb-3">
+          <h1 className="text-2xl font-bold text-gray-800">狩猟鳥獣判定クイズ</h1>
           {score.total > 0 && (
-            <p className="text-lg font-semibold text-blue-600 mt-2">
+            <p className="text-sm font-semibold text-blue-600 mt-1">
               スコア: {score.correct}/{score.total}
             </p>
           )}
         </div>
 
         {/* クイズカード */}
-        <div className="bg-white rounded-lg shadow-lg p-6">
+        <div className="bg-white rounded-lg shadow-lg p-4">
           {/* 画像 */}
-          <div className="relative w-full mb-6 bg-gray-200 rounded-lg overflow-hidden flex items-center justify-center" style={{ minHeight: '300px' }}>
+          <div className="relative w-full mb-4 bg-gray-200 rounded-lg overflow-hidden flex items-center justify-center" style={{ minHeight: '250px', maxHeight: '300px' }}>
             <Image
               src={`/images/${currentQuestion.is_huntable ? 'huntable' : 'non-huntable'}/${currentQuestion.filename}`}
               alt="狩猟鳥獣クイズ"
@@ -176,10 +175,6 @@ export default function QuizApp() {
           </div>
         </div>
 
-        {/* フッター */}
-        <div className="text-center mt-6 text-gray-600 text-sm">
-          <p>資料免許試験対策アプリ</p>
-        </div>
       </div>
     </div>
   )
